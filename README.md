@@ -2,7 +2,7 @@
 A small list of useful shortcuts on Sublime Text
 
 
-Windows | Mac | Description
+Mac | Windows | Description
 ----------|----------|----------
 cmd + X | Ctrl + X | Delete Line
 cmd + return | Ctrl + Enter | Insert Line After
